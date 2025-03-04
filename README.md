@@ -47,8 +47,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=islomurodov&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=islomurodov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=eeslom&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=eeslom&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
 ###
@@ -62,7 +62,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.youtube.com/@islomurodov" target="_blank">
+  <a href="https://www.youtube.com/@eeslom" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
   <a href="https://t.me/islom_power" target="_blank">
@@ -72,9 +72,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/islomurodov/islomurodov/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/eeslom/eeslom/output/snake.svg" alt="Snake animation" />
 
 ###
 
-![github profile views count](https://komarev.com/ghpvc/?username=islomurodov)
+![github profile views count](https://komarev.com/ghpvc/?username=eeslom)
 [![wakatime](https://wakatime.com/badge/user/018e23ff-77bb-4c12-943c-ab3d16bfebfc.svg)](https://wakatime.com/@018e23ff-77bb-4c12-943c-ab3d16bfebfc)
